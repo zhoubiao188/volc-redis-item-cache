@@ -1,0 +1,7 @@
+target/
+logs/*.log
+logs/bench-result.txt
+*.class
+.idea/
+*.iml
+.DS_Store
